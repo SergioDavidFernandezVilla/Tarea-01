@@ -1,0 +1,3 @@
+'# Mi Proyecto\n\nEste es el README principal.' 
+
+Primero, escribe tu código en C en un archivo con extensión ".c". Luego, abre una terminal o línea de comandos y navega hasta la ubicación de tu archivo. Utiliza un compilador de C, como gcc en sistemas Unix o MinGW en Windows, para compilar tu código escribiendo gcc tu_programa.c -o tu_programa (o el nombre que desees para tu ejecutable). Finalmente, para ejecutar el programa, escribe ./tu_programa

@@ -1,1 +1,3 @@
-'## Compilation and Execution\nCompile using a compatible C compiler and run the program.' 
+'# My Project\n\nThis is the main README.'
+
+First, write your C code in a file with a ".c" extension. Then, open a terminal or command line and navigate to the location of your file. Use a C compiler, such as gcc on Unix systems or MinGW on Windows, to compile your code by typing gcc your_program.c -or your_program (or whatever name you want for your executable). Finally, to run the program, type ./your_program
